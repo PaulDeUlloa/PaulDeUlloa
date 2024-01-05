@@ -16,9 +16,9 @@
 
 <!-- Dev Pictures -->
 <div display="flex" flex-direction="column" align="center" >
-  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/a255efb4-7b23-457f-a5c4-d537892de5e1" alt="dev hiking picture" width="300" height="330" />
-  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/68091345-209f-4dd7-aa7b-85608b2ebbbb" alt="dev hiking picture of colliding trees" width="300" height="330" />
-  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/dba2ea0a-73e6-4ba7-b2bd-28958ab95460" alt="dev beach travel picture" width="300" height="330" />
+  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/a255efb4-7b23-457f-a5c4-d537892de5e1" alt="dev hiking picture" width="250" height="250" />
+  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/68091345-209f-4dd7-aa7b-85608b2ebbbb" alt="dev hiking picture of colliding trees" width="250" height="250" />
+  <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/dba2ea0a-73e6-4ba7-b2bd-28958ab95460" alt="dev beach travel picture" width="250" height="250" />
 </div>
   
 <!-- Interests -->
