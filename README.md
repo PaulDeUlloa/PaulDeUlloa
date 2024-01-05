@@ -11,7 +11,7 @@
 
 <!-- Type Writing -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia&duration=3000&pause=700&color=0CFF19&background=FFFFFF00&random=false&width=450&height=60&lines=%F0%9F%8E%A7+Full-Stack+Software+Developer++%F0%9F%92%BB;%E2%9C%A8+Let's+make+a+positive+impact+on+peoples+lives+%E2%9C%A8;%F0%9F%92%9A%F0%9F%8C%B2+Enjoy+your+time+here+%F0%9F%8C%B2%F0%9F%92%9A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia&duration=3000&pause=700&color=0CFF19&background=FFFFFF00&random=false&width=450&height=60&lines=%E2%9C%A8+Let's+make+a+positive+impact+on+peoples+lives+%E2%9C%A8;%F0%9F%8E%A7+Full-Stack+Software+Developer++%F0%9F%92%BB;%F0%9F%92%9A%F0%9F%8C%B2+Enjoy+your+time+here+%F0%9F%8C%B2%F0%9F%92%9A" alt="Typing SVG" /></a>
 </div>
 
 <!-- Dev Pictures -->
