@@ -1,7 +1,8 @@
 <!-- Header -->
 <h3 align="center">
-  <img src= "https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/e7af9c9a-7633-4b9a-b09f-e672b22c654d" width = 30px> 
   Welcome! 
+  <img src= "https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/e7af9c9a-7633-4b9a-b09f-e672b22c654d" width = 30px> 
+  
 </h3>
 
 <!-- Profile View Counter -->
@@ -14,18 +15,40 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia&duration=3000&pause=700&color=0CFF19&background=FFFFFF00&random=false&width=450&height=60&lines=%E2%9C%A8+Let's+make+a+positive+impact+on+peoples+lives+%E2%9C%A8;_____%F0%9F%8E%A7+Full-Stack+Software+Developer++%F0%9F%92%BB_____;______%F0%9F%92%9A%F0%9F%8C%B2Enjoy+your+time+here%F0%9F%8C%B2%F0%9F%92%9A______" alt="Typing SVG" /></a>
 </div>
 
+<hr>
+
 <!-- Dev Pictures -->
 <div display="flex" flex-direction="column" align="center" >
   <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/a255efb4-7b23-457f-a5c4-d537892de5e1" alt="dev hiking picture" width="250" height="250" />
   <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/68091345-209f-4dd7-aa7b-85608b2ebbbb" alt="dev hiking picture of colliding trees" width="250" height="250" />
   <img src="https://github.com/PaulDeUlloa/PaulDeUlloa/assets/135933615/dba2ea0a-73e6-4ba7-b2bd-28958ab95460" alt="dev beach travel picture" width="250" height="250" />
 </div>
-  
+
+<hr>
+
+<!-- About Me -->
+<h2 align="center"> About Me </h2>
+<div align="center">
+  <p>
+    My name is Paul De Ulloa and I'm currently located in California. I have a background in Management and in 2023 I earned a Software Engineering Basics for Everyone certificate through edX. That certificate ignited my desire to learn more about software engineering which led me to   discover and graduate from Coding Dojo's Full-Time Full-Stack Development boot camp. Aside from coding I like spending time with family, friends, hiking, working out, or going for a walk.
+  </p>
+</div>
+
+<hr>
+
+<!-- Tool Box -->
+<h2 align="center"> Toolbox 🧰</h2>
+<div align="center">
+  <p>
+   | HTML - CSS - Bootstrap | Java - Spring - OOP - MySQL | Python - Jinja - Flask + MySQL - AJAX | JavaScript - MongoDB - Express - React - Node.js (MERN)
+   </p>
+</div>
+
 <!-- Interests -->
 
 <!-- How to reach me -->
 
-<!-- Tool Box -->
+
 
 
 
