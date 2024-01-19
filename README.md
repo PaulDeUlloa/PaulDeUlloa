@@ -30,7 +30,7 @@
 <h2 align="center"> About Me </h2>
 <div align="center">
   <p>
-    Hello! My name is Paul De Ulloa and I was born and raised in California. I have a background in corporate management that worked closely with several fortune 500 companies, high-profile executives, and celebrities. Mentoring and being the direct report for 200+ employees was a daily        privilege of mine. In 2023, I earned a Software Engineering basics for everyone certificate through edX. That certificate ignited my desire to learn more about software engineering which led me to discover and graduate from Coding Dojo's Full-Time Full-Stack Development boot camp.        Aside from coding I enjoy spending my time with family, friends, going for hikes, working out, or going for walks. I plan on developing my skills even more to better improve people's lives.
+    Hello! My name is Paul De Ulloa and I was born and raised in California. I have a background in corporate management that worked closely with several fortune 500 companies, high-profile executives, and celebrities. Mentoring and being the direct report for 200+ employees was a daily        privilege of mine. In 2023, I earned a Software Engineering basics for everyone certificate through edX. That certificate ignited my desire to learn more about software engineering which led me to discover and graduate from Coding Dojo's Full-Time Full-Stack Development boot camp.        Aside from coding I enjoy spending my time with family, friends, going for hikes, working out, or going for walks. I look forward to developing my skills even more to better improve people's lives.
   </p>
 </div>
 
