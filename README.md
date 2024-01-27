@@ -40,7 +40,7 @@
 <h2 align="center"> Toolbox 🧰</h2>
 <div align="center">
   <p>
-   | HTML - CSS - Bootstrap | Java - Spring - OOP - MySQL | Python - Jinja - Flask + MySQL - AJAX | JavaScript - MongoDB - Express - React - Node.js (MERN) |
+   | HTML - CSS - Bootstrap | Java - Spring - OOP - MySQL | Python - Jinja2 - Flask - MySQL - AJAX | JavaScript - MongoDB - Express - React - Node.js (MERN) |
    </p>
 </div>
 
